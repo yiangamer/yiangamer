@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Yiangamer and I'm a Junior Developer from Cyprus and Live in Germany</h2>
+<h2 align="left">Hi 👋! My name is Yiangamer and I'm a Junior Developer from Germany</h2>
 
 ###
 
@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <p>I have experience with various technologies and languages, including:</p>
+  <p>I have learned the following languages:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5 logo"  />
